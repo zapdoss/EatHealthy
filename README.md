@@ -1,2 +1,2 @@
-#3rd Semester Java Project.
-#Using Clarifai APIs for food image recognition.
+3rd Semester Java Project.
+Using Clarifai APIs for food image recognition.
